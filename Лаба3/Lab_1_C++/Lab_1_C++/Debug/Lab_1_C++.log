@@ -1,0 +1,7 @@
+﻿  Multiplier.cpp
+  Subtractor.cpp
+e:\универ\программирование\lab_1_c++\lab_1_c++\subtractor.cpp(92): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  main.cpp
+e:\универ\программирование\lab_1_c++\lab_1_c++\main.cpp(12): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода...
+  Lab_1_C++.vcxproj -> E:\Универ\Программирование\Lab_1_C++\Debug\Lab_1_C++.exe
