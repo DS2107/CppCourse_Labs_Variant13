@@ -1,3 +1,4 @@
+// открытый концерт
 #pragma once
 #include "Musician.h"
 #include "IPayment.h"
